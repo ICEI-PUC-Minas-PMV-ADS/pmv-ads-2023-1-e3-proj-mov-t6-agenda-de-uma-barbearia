@@ -1,26 +1,29 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
+A escolha do referido problema foi definida por meio de discussões e estudos realizados pelos membros da equipe. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+|Gabriel dos Santos |              |                    |
+|--------------------|--------------------|--------------------|
+| **Idade**: 	30 anos.    | **Ocupação** : Professor de canto  | **Aplicativos**: Facebook , Instagram , Twitter. |
+| **Motivações** : Prefere que um profissional mantenha a sua barba; Esconder a calvície;.|  **Frustrações** : Espera muito pelo atendimento; Não sabe quando o barbeiro favorito está na loja.|**Hobbies** : Natação Viajar Assistir Series.|
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+|Mateus Avelar Assunção |              |                    |
+|--------------------|--------------------|--------------------|
+| **Idade**: 	33 anos.    | **Ocupação** : 	Barbeiro | **Aplicativos**: Facebook , Instagram , Twitter. |
+| **Motivações** : Ter clientes fiéis; Ter um bom relacionamento com o dono da barbearia;|  **Frustrações** : Não consegue atender todos os clientes que chegam; Não sabe quando os clientes vão chegar;|**Hobbies** : Ir a shows de stand-up; Assistir à séries e filmes.|
+
+
+|Ravi Amorim |              |                    |
+|--------------------|--------------------|--------------------|
+| **Idade**: 	45 anos.    | **Ocupação** : Dono de barbearia. | **Aplicativos**: Facebook , Instagram , Twitter. |
+| **Motivações** : Ter uma barbearia de sucesso e ampliar o atendimento para que todas as vagas sejam preenchidas.|  **Frustrações** : Não ter uma secretária e parar sempre o atendimento presencial para atender o telefone.|**Hobbies** :Jogar jogos online e brincar com seus gatos.|
+
+|Caio José dos Santos |              |                    |
+|--------------------|--------------------|--------------------|
+| **Idade**: 	16 anos.    | **Ocupação** : Cursando Barbearia | **Aplicativos**: Facebook , Instagram , Twitter. |
+| **Motivações** : Espera satisfazer seus clientes e ajudar em casa.|  **Frustrações** : Ser muito novo e não conseguir um emprego. Por esse motivo ele escolheu o curso de barbearia.|**Hobbies** :Jogar jogos online|
 
 ## Histórias de Usuários
 
@@ -28,48 +31,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Representante       | Quero poder agendar um horário para atendimento        | Para que eu possa otimizar meu tempo, pois trabalho viajando e só tenho os finais de semanas para descansar e cuidar do visual             |
+|Modelo     | Quero ter opções para escolher os produtos e serviços oferecidos;       | Para que eu possa decidir com antecedência e estimar um custo |
+|Cabeleireiro    | Quero que a ferramenta possibilita um controle de agenda e um controle financeiro;     | Para que eu possa melhorar o atendimento para o cliente diminuindo as filas e também consiga controlar os ganhos diários. |
+|Proprietário     | Quero ter opções para escolher os produtos e serviços oferecidos;       | Para que o salão não fique cheio com filas de espera e que os profissionais possam fazer os repasses de forma mais assertiva.   |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
-## Modelagem do Processo de Negócio 
-
-### Análise da Situação Atual
-
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
-
-### Descrição Geral da Proposta
-
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
-
-### Processo 1 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
-
-![Processo 1](img/02-bpmn-proc1.png)
-
-### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
-
-## Indicadores de Desempenho
-
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ## Requisitos
 
@@ -79,8 +47,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O site deve proporcionar para o usuário uma página inicial com todas as informações necessárias;| ALTA | 
+|RF-002| Ao clicar em qualquer dos ícones disponíveis no menu, o site deverá levar os clientes para suas respectivas páginas, cada uma com suas informações particulares, mas seguindo o mesmo plano de layout. |  ALTA |
+|RF-003| Com o cadastro do telefone, o cliente poderá acompanhar seu histórico de cortes na barbearia.| ALTA | 
+|RF-004| Ao concluir seu agendamento, a página deve apresentar um aviso que o agendamento foi realizado com sucesso.| ALTA | 
 
 ### Requisitos não Funcionais
 

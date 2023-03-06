@@ -1,46 +1,34 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+De acordo com a Associação Brasileira da Indústria de Higiene Pessoal, Perfumaria e Cosméticos (ABIHPEC), o Brasil é o quarto maior mercado global de beleza, perdendo apenas para a China, Estados Unidos e o Japão. 
+O brasileiro médio destina 2% de seu orçamento mensal para gastos com produtos de beleza, higiene e procedimentos estéticos. Sendo assim, o mercado da beleza em nosso país é bastante consolidado e lucrativo, além de ocupar uma posição de prestígio no cotidiano das pessoas.
+o agendamento online é uma das melhores formas de tornar a agenda do seu salão mais acessível, rápida e prática. Além de economizar tempo e dinheiro, o agendamento online pode atrair novos clientes que buscam praticidade e agilidade na hora de marcar um horário.
+Permitindo que o cliente seja atendido 24 horas por dia / sete dias por semana, pois pelo aplicativo, ele pode marcar com você quando quiser, assim, você evita congestionamentos no telefone e estará sempre pronto para o seu cliente.
+Também permite que você consiga dados muito valiosos e fáceis de serem acessados possibilitando criar uma lista com todos os clientes e fazer análises do que cada um deles mais gosta de fazer no seu estabelecimento, auxiliando no processo de criação de promoções e de envio de novidades direcionadas para cada perfil por SMS e e-mail.
+Como cliente fará o agendamento por um aplicativo próprio do seu estabelecimento, com cores, logo e identidade visual do seu negócio, ele terá contato constante com a sua empresa, que estará presente no celular dele. 
+Dessa forma, inconscientemente, a sua marca será fortalecida.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Nem todas as empresas do mercado podem contar com uma recepcionista ou secretária para cuidar do telefone, e temos como obstáculos a serem resolvidos: 
+<ul>
+    <li>Fazer com que o cliente baixe o aplicativo de agendamento online;</li>
+    <li>Melhor através do APP a experiência do cliente;</li>
+    <li>Fidelizar o cliente;</li>
+  </ul>
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Nosso objetivo é desenvolver um aplicativo de fácil manuseio, intuitivo, onde os usuários ficaram seguros e confiantes em agendar seus procedimentos com muita praticidade e quando desejarem, sem restrições de horários para os agendamentos.Iremos oferecer promoções especiais para quem utiliza o seu app, como descontos ou sistema de cartão fidelidade, que após um certo número de procedimentos realizados, ele ganhará um atendimento grátis.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O App será um sistema para gestão online de salões de beleza, que permitirá agendamentos de horários com diversos serviços previamente cadastrados organizando a agenda e otimizando os processos do estabelecimento.
+O sistema será desenvolvido utilizando as mais novas tecnologias do mercado, para auxiliar na gestão de um jeito prático e moderno.
+Ele pode ser acessado tanto pelo profissional, para acompanhar sua agenda, quanto pelo cliente, para realizar agendamentos, receber notícias e promoções, lembretes automáticos, entre outros, facilitando e aproximando o salão dos seus clientes.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Temos como público alvo salões de beleza masculinos, femininos e unissex, que buscam por otimização do tempo, que desejam ampliar sua rede de contatos e que tenham a possibilidade de conquistar clientes de diversas regiões.

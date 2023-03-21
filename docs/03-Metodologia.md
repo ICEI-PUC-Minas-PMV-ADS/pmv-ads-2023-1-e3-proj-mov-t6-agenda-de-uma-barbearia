@@ -15,9 +15,9 @@ Documentos do projeto | GitHub |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ad
 
 Projeto de Interface e Wireframes | Figma | [Agenda App - Agenda  Mobile] https://www.figma.com/file/I5rBs0EuRUlrEncxGaeu8t/Diagram---Untitled?node-id=0-1&t=UWOmSRoiHBdNIpz7-0
 
-Gerenciamento do Projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/123
+Gerenciamento do Projeto | Trello |https://trello.com/b/bpJd6K7l/backlog-da-sprint-entrega-etapa-2
 
-Gerenciamento do Projeto | Sprints / Diagrama de Gantt | Trello
+
 
 
 ## Controle de Versão
@@ -69,6 +69,5 @@ As ferramentas empregadas no projeto são:
 - Editor de código : Visual Studio Code.
 - Ferramentas de comunicação: Whatsapp, Teams.
 - Ferramentas de desenho de tela (_wireframing_): MarvelAPP, Figma
-- Ferramentas para diagramas (conceitual e lógico): Diagrams.net, Astah, Lucid Charts, BRMW
 
 O editor de código foi escolhido pelo grupo pois é o mais prático e acessível para os integrantes, além de facilitar a alternação de quem está editando o código e salvando diretamente no reposítorio através do GitHub Desktop. Tem um bom dicionário de erros no código e permite acompanhar alterações em tempo real através do navegador.

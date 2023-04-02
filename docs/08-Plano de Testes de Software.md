@@ -1,19 +1,52 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+Segue abaixo o Plano de Teste de Software feito seguindo a metodologia de BDD, (Behavior Driven Design) onde todos os requisitos são testados ao longo do projeto gerando relátorios e imagens dos testes realizados.
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
-
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+<table border="1">
+   <thead>
+   <tr>
+       <th>RF</th>
+       <th>Cenário</th>
+       <th>Pré-Condição</th> 
+       <th>Dado</th>
+       <th>Quando</th>
+      <th>Então</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+       <td>RF-001</td>
+       <td>Usuário efetuar o cadastramento da conta</td>
+       <td>Usuário acessar a página de cadastro</td>
+       <td>Usuário preenche o formulário de cadastro</td>
+       <td>Usuário clica no botão de cadastrar</td>
+       <td>O app realiza o cadastro com os dados necessários</td>
+       
+   </tr>
+   <tr>
+       <td>RF-002</td>
+       <td>Usuário efetuar o login no app</td>
+       <td>Usuário deverá estar cadastrado</td>
+       <td>Usuário preenche seus dados na tela de login</td>
+       <td>Usuário clica no botão de logar</td>
+       <td>O usuário realiza o login e é redirecionado para página home</td>
+   </tr>
+   </tbody>
+   
+ <tr>
+      <td>RF-003</td>
+       <td>Usuário irá escolher os seus serviços</td>
+       <td>O usuário estar logado e existir serviços cadastrados </td>
+       <td>Acessa a página da agenda de serviços selecionado</td>
+       <td>O usuário é redirecionado para página de serviços agendados</td>
+       <td>A página de serviços agendados e renderizada mostrando todos os serviços que foram cadastrados.</td>
+   </tfoot>
+   <tfoot>
+      <td>RF-004</td>
+       <td>Usuário irá cancelar um serviço agendado</td>
+       <td>O serviço estar agendado</td>
+       <td>O serviço esteja no prazo de cancelamento e com o status de a realizar</td>
+       <td>O usuário confirma o cancelamento do serviço</td>
+       <td>O serviço que está agendado é deletado.</td>
+   </tfoot>
+</table>

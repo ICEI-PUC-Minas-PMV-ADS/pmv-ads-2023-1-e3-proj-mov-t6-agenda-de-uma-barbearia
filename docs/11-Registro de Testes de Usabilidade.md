@@ -5,8 +5,9 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
 
 **CT 01 - Cadastro de novo usuário**
-
-|**Usuário** |	**Artefato**|	**Tempo**|	**Clicks/Ações**|	**Qtd. Erros**|	**Se recuperou do erro**|	**Comentários e observações**|
+---------------------------------------------------------------------------------------------------------------------------------------------
+| **Usuário** |	**Artefato** | **Tempo** |	**Clicks/Ações** |	**Qtd. Erros** |	**Se recuperou do erro** |	**Comentários e observações** |
+---------------------------------------------------------------------------------------------------------------------------------------------
 Usuário 1	CT-01	03:43	8	0	-	---
 Usuário 2	CT-01	02:99	9	0	-	Tarefa realizada com sucesso.
 Usuário 3	CT-01	02:80	9	0	-	---

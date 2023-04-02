@@ -44,7 +44,7 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 | Framework | ReactNative | 
 | Bibliotecas | React Native Paper, React Navigation, Json server, Json server auth, Axios | 
 | IDE | Visual Studio Code | 
-| Ferramentas | Microsoft Teams, GitHub, Whatsapp | 
+| Ferramentas | Microsoft Teams, GitHub, Whatsapp, Trello | 
 | Banco de dados | SQL SERVER | 
 
 ## Hospedagem

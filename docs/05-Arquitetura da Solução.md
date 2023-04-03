@@ -32,9 +32,9 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 
 ## Modelo Físico
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo se encnotra em <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t6-agenda-de-uma-barbearia/blob/main/src/bd/AppSalao.sql">AppSalãoSQL</a>.
 
-![Capturar](https://user-images.githubusercontent.com/97108151/229374801-287beadc-4288-439b-8a42-6fc60471a960.PNG)
+
 
 
 ## Tecnologias Utilizadas

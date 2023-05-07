@@ -19,6 +19,8 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 |RF-009| A aplicação deve permitir que o cliente faça o cancelamento antecipado ou alteração do serviço agendado.| 
 <br>
 
-![validação1](https://user-images.githubusercontent.com/97108151/236703360-17719170-597d-4584-944a-71dfcb1ca4d1.PNG)
-![validação2](https://user-images.githubusercontent.com/97108151/236703362-e43d7e8e-2229-4dea-afdf-1ae26f93e231.PNG)
+![validação0](https://user-images.githubusercontent.com/97108151/236703446-a7792ab9-ffbf-4981-9a14-c240236cda90.PNG)<br>
+![validação01](https://user-images.githubusercontent.com/97108151/236703448-2e1aaca4-8fb2-40e0-88ec-6b249928937e.PNG)<br>
+![validação1](https://user-images.githubusercontent.com/97108151/236703360-17719170-597d-4584-944a-71dfcb1ca4d1.PNG)<br>
+![validação2](https://user-images.githubusercontent.com/97108151/236703362-e43d7e8e-2229-4dea-afdf-1ae26f93e231.PNG)<br>
 ![validação3](https://user-images.githubusercontent.com/97108151/236703388-3ef7b535-f03d-4666-af35-8f661cf71d88.PNG)

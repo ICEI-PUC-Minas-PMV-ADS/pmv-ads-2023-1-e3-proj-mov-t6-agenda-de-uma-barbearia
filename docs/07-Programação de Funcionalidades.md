@@ -17,6 +17,8 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 |RF-007| Terá de ser uma aplicação acessível para todos os públicos.|
 |RF-008| A administração da aplicação ficará sob responsabilidade do dono da barbearia.|
 |RF-009| A aplicação deve permitir que o cliente faça o cancelamento antecipado ou alteração do serviço agendado.| 
+<br>
 
-![WhatsApp Image 2023-04-02 at 16 13 58](https://user-images.githubusercontent.com/97108151/229374601-ac9a22a5-d4bc-4a84-97bb-a52dce051e8f.jpeg)
-![WhatsApp Image 2023-04-02 at 16 14 01](https://user-images.githubusercontent.com/97108151/229374603-bae82488-79b7-43a7-84b9-abd77d98d94b.jpeg)
+![validação1](https://user-images.githubusercontent.com/97108151/236703360-17719170-597d-4584-944a-71dfcb1ca4d1.PNG)
+![validação2](https://user-images.githubusercontent.com/97108151/236703362-e43d7e8e-2229-4dea-afdf-1ae26f93e231.PNG)
+![validação3](https://user-images.githubusercontent.com/97108151/236703388-3ef7b535-f03d-4666-af35-8f661cf71d88.PNG)

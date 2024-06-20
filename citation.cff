@@ -1,0 +1,24 @@
+message: Please cite this software using these metadata.
+title: Puc BeatyBook
+authors:
+  - family-names: Filipe Lopes Mendes
+    given-names: Alan 
+  - family-names: Anderson De Carvalho
+    given-names: Alisson
+  - family-names: de Oliveira Marcelino
+    given-names: Daniel 
+  - family-names: Ribeiro Santos
+    given-names: Davi
+  - family-names: Fernando Ribeiro Ferreira
+    given-names: Luiz
+  - family-names: Douglas Dos Santos
+    given-names: Patrick
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Assis Valentim
+    given-names: Nathalia 
+keywords:
+  - Puc BeatyBook
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t6-agenda-de-uma-barbearia.git
+version: 1.0.0
+date-released: 2023-11-21

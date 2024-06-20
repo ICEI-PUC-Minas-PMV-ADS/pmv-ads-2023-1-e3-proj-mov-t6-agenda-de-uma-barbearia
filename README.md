@@ -15,7 +15,7 @@ Este projeto trata-se do desenvolvimento de uma aplicação funcional, que  auxi
 * Diego Alberto Sobrinho
 * Isabela Aparecida dos Santos
 * Luiz Fernando Ribeiro
-* Patrick Douglas 
+* Patrick Douglas dos Santos
 
 ## Orientador
 
